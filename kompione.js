@@ -25,4 +25,4 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-protected_links="kompione.com,youtube.com,facebook.com,twitter,google.com,totalping.com,123contactform.com,histats.com, justgetitfaster.com, blogspot.com";
+protected_links="kompione.com, youtube.com, facebook.com, twitter.com, google.com, totalping.com, 123contactform.com, histats.com, blogspot.com";
